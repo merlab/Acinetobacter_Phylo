@@ -1,0 +1,256 @@
+ID   Genome standard; DNA; PRO; 1234 BP.
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   feature         1..1353
+FT                   /label=argG
+FT                   /locus_tag=argG
+FT   feature         1354..1599
+FT                   /label=atpE
+FT                   /locus_tag=atpE
+FT   feature         1600..2469
+FT                   /label=atpG
+FT                   /locus_tag=atpG
+FT   feature         2470..2934
+FT                   /label=bfr_2
+FT                   /locus_tag=bfr_2
+FT   feature         2935..4140
+FT                   /label=caiA
+FT                   /locus_tag=caiA
+FT   feature         4141..4747
+FT                   /label=clpP
+FT                   /locus_tag=clpP
+FT   feature         4748..6739
+FT                   /label=cyoB
+FT                   /locus_tag=cyoB
+FT   feature         6740..8113
+FT                   /label=dat
+FT                   /locus_tag=dat
+FT   feature         8114..9646
+FT                   /label=ddc
+FT                   /locus_tag=ddc
+FT   feature         9647..10819
+FT                   /label=fadA_2
+FT                   /locus_tag=fadA_2
+FT   feature         10820..11089
+FT                   /label=fis
+FT                   /locus_tag=fis
+FT   feature         11090..12616
+FT                   /label=fumB
+FT                   /locus_tag=fumB
+FT   feature         12617..13054
+FT                   /label=fur
+FT                   /locus_tag=fur
+FT   feature         13055..15194
+FT                   /label=fusA
+FT                   /locus_tag=fusA
+FT   feature         15195..15830
+FT                   /label=gacA
+FT                   /locus_tag=gacA
+FT   feature         15831..16232
+FT                   /label=gloA
+FT                   /locus_tag=gloA
+FT   misc_feature    16233..17642
+FT                   /label=group_10238
+FT                   /locus_tag=group_10238
+FT   misc_feature    17643..18146
+FT                   /label=group_5962
+FT                   /locus_tag=group_5962
+FT   misc_feature    18147..18998
+FT                   /label=group_6795
+FT                   /locus_tag=group_6795
+FT   misc_feature    18999..19433
+FT                   /label=group_7961
+FT                   /locus_tag=group_7961
+FT   misc_feature    19434..19787
+FT                   /label=group_8047
+FT                   /locus_tag=group_8047
+FT   misc_feature    19788..21080
+FT                   /label=group_8266
+FT                   /locus_tag=group_8266
+FT   misc_feature    21081..21332
+FT                   /label=group_9242
+FT                   /locus_tag=group_9242
+FT   feature         21333..22631
+FT                   /label=hemL
+FT                   /locus_tag=hemL
+FT   feature         22632..23933
+FT                   /label=hom
+FT                   /locus_tag=hom
+FT   feature         23934..24230
+FT                   /label=ihfA
+FT                   /locus_tag=ihfA
+FT   feature         24231..25247
+FT                   /label=ilvC
+FT                   /locus_tag=ilvC
+FT   feature         25248..25739
+FT                   /label=ilvH
+FT                   /locus_tag=ilvH
+FT   feature         25740..25961
+FT                   /label=infA
+FT                   /locus_tag=infA
+FT   feature         25962..26300
+FT                   /label=infC
+FT                   /locus_tag=infC
+FT   feature         26301..26501
+FT                   /label=iscX
+FT                   /locus_tag=iscX
+FT   feature         26502..27581
+FT                   /label=leuB
+FT                   /locus_tag=leuB
+FT   feature         27582..30206
+FT                   /label=leuS
+FT                   /locus_tag=leuS
+FT   feature         30207..31230
+FT                   /label=lipA_1
+FT                   /locus_tag=lipA_1
+FT   feature         31231..33871
+FT                   /label=lon_1
+FT                   /locus_tag=lon_1
+FT   feature         33872..34699
+FT                   /label=map_1
+FT                   /locus_tag=map_1
+FT   feature         34700..35866
+FT                   /label=metK
+FT                   /locus_tag=metK
+FT   feature         35867..36703
+FT                   /label=minD
+FT                   /locus_tag=minD
+FT   feature         36704..36976
+FT                   /label=minE
+FT                   /locus_tag=minE
+FT   feature         36977..38149
+FT                   /label=mmgC_6
+FT                   /locus_tag=mmgC_6
+FT   feature         38150..39146
+FT                   /label=mutS2
+FT                   /locus_tag=mutS2
+FT   feature         39147..39578
+FT                   /label=ndk
+FT                   /locus_tag=ndk
+FT   feature         39579..40257
+FT                   /label=nuoB
+FT                   /locus_tag=nuoB
+FT   feature         40258..42045
+FT                   /label=nuoC
+FT                   /locus_tag=nuoC
+FT   feature         42046..42555
+FT                   /label=nuoE
+FT                   /locus_tag=nuoE
+FT   feature         42556..43572
+FT                   /label=nuoH
+FT                   /locus_tag=nuoH
+FT   feature         43573..44115
+FT                   /label=nuoI
+FT                   /locus_tag=nuoI
+FT   feature         44116..44424
+FT                   /label=nuoK
+FT                   /locus_tag=nuoK
+FT   feature         44425..45007
+FT                   /label=nusG
+FT                   /locus_tag=nusG
+FT   feature         45008..46075
+FT                   /label=pilT_1
+FT                   /locus_tag=pilT_1
+FT   feature         46076..46402
+FT                   /label=ppnP
+FT                   /locus_tag=ppnP
+FT   feature         46403..47564
+FT                   /label=prpC
+FT                   /locus_tag=prpC
+FT   feature         47565..49181
+FT                   /label=purH
+FT                   /locus_tag=purH
+FT   feature         49182..50819
+FT                   /label=pyrG
+FT                   /locus_tag=pyrG
+FT   feature         50820..51675
+FT                   /label=rapZ
+FT                   /locus_tag=rapZ
+FT   feature         51676..52335
+FT                   /label=ribE
+FT                   /locus_tag=ribE
+FT   feature         52336..53085
+FT                   /label=rlmB_2
+FT                   /locus_tag=rlmB_2
+FT   feature         53086..54340
+FT                   /label=rlmN
+FT                   /locus_tag=rlmN
+FT   feature         54341..54850
+FT                   /label=rplI
+FT                   /locus_tag=rplI
+FT   feature         54851..55279
+FT                   /label=rplK
+FT                   /locus_tag=rplK
+FT   feature         55280..55654
+FT                   /label=rplL
+FT                   /locus_tag=rplL
+FT   feature         55655..56066
+FT                   /label=rplT
+FT                   /locus_tag=rplT
+FT   feature         56067..56303
+FT                   /label=rpmB
+FT                   /locus_tag=rpmB
+FT   feature         56304..56459
+FT                   /label=rpmG
+FT                   /locus_tag=rpmG
+FT   feature         56460..56654
+FT                   /label=rpmI
+FT                   /locus_tag=rpmI
+FT   feature         56655..60743
+FT                   /label=rpoB
+FT                   /locus_tag=rpoB
+FT   feature         60744..61614
+FT                   /label=rpoH
+FT                   /locus_tag=rpoH
+FT   feature         61615..62154
+FT                   /label=rppH
+FT                   /locus_tag=rppH
+FT   feature         62155..63837
+FT                   /label=rpsA
+FT                   /locus_tag=rpsA
+FT   feature         63838..64590
+FT                   /label=rpsB
+FT                   /locus_tag=rpsB
+FT   feature         64591..64974
+FT                   /label=rpsF
+FT                   /locus_tag=rpsF
+FT   feature         64975..65244
+FT                   /label=rpsO
+FT                   /locus_tag=rpsO
+FT   feature         65245..65503
+FT                   /label=rpsR
+FT                   /locus_tag=rpsR
+FT   feature         65504..65723
+FT                   /label=rpsU
+FT                   /locus_tag=rpsU
+FT   feature         65724..66440
+FT                   /label=rstA
+FT                   /locus_tag=rstA
+FT   feature         66441..66605
+FT                   /label=rubA
+FT                   /locus_tag=rubA
+FT   feature         66606..67232
+FT                   /label=sodB
+FT                   /locus_tag=sodB
+FT   feature         67233..68223
+FT                   /label=syrM1
+FT                   /locus_tag=syrM1
+FT   feature         68224..69009
+FT                   /label=thiG
+FT                   /locus_tag=thiG
+FT   feature         69010..70932
+FT                   /label=thrS
+FT                   /locus_tag=thrS
+FT   feature         70933..71649
+FT                   /label=trmB_1
+FT                   /locus_tag=trmB_1
+FT   feature         71650..72525
+FT                   /label=tsf
+FT                   /locus_tag=tsf
+FT   feature         72526..72949
+FT                   /label=yhfA
+FT                   /locus_tag=yhfA
+XX
+SQ   Sequence 1234 BP; 789 A; 1717 C; 1693 G; 691 T; 0 other;
+//
